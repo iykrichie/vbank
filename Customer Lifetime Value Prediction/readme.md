@@ -1,4 +1,3 @@
-```markdown
 # Predicting Customer Lifetime Value (CLV)
 
 This project aims to predict Customer Lifetime Value (CLV) using historical transaction data. Below is a detailed summary of the steps and the approach taken to determine CLV.
@@ -59,4 +58,3 @@ This project aims to predict Customer Lifetime Value (CLV) using historical tran
 
 ## Outcome
 The final output includes a DataFrame with predicted CLV for each customer, which is saved to a Databricks table for further analysis and reporting. This enables the business to identify high-value customers and tailor their marketing efforts accordingly.
-```
